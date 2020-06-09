@@ -1,5 +1,5 @@
 server:
-  port: 3355
+  port: 3353
 spring:
   application:
     name: cloud-provider-payment
