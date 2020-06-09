@@ -1,5 +1,3 @@
-server:
-  port: 3353
 config:
   info: v.100
 spring:
