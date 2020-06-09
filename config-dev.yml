@@ -1,8 +1,2 @@
 config:
   info: v.100
-spring:
-  application:
-    name: cloud-provider-payment
-  cloud:
-    zookeeper:
-      connect-string: localhost:2181
